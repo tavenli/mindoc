@@ -3,7 +3,8 @@ package controllers
 import (
 	"github.com/tavenli/mindoc/models"
 	"github.com/astaxie/beego/orm"
-	"github.com/qiniu/x/errors"
+	//"github.com/qiniu/x/errors"
+	"errors"
 	"strings"
 	"github.com/tavenli/mindoc/conf"
 )
