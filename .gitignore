@@ -26,5 +26,6 @@ _testmain.go
 /conf/app.conf
 /vendor
 
+*.mod
 *.sum
 
